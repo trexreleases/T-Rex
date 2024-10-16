@@ -1,6 +1,0 @@
-# T-Rex
-T-Rex Miner is a powerful and versatile cryptocurrency mining software designed to work with a wide range of NVIDIA GPUs. Known for its exceptional performance, T-Rex Miner supports multiple algorithms, making it suitable for mining a variety of cryptocurrencies, including Ethereum, Ravencoin, and Zcoin. Its optimized code allows users to maximize hash rates while minimizing power consumption, ensuring a more profitable mining experience.
-
-T-Rex Miner is user-friendly, with a straightforward interface that allows even beginners to set up and start mining quickly. Advanced users will appreciate its comprehensive configuration options, such as overclocking support, GPU temperature monitoring, and real-time mining statistics. One of its standout features is its stability — the software is built to handle long mining sessions without crashing or requiring frequent restarts.
-
-In addition, T-Rex Miner frequently receives updates, incorporating the latest optimizations and bug fixes, ensuring top-tier performance in a rapidly changing crypto landscape. Whether you're mining solo or as part of a pool, T-Rex Miner offers the efficiency, flexibility, and reliability needed to boost your mining success. With T-Rex Miner, you can take full advantage of your GPU’s potential and enhance your cryptocurrency mining operations.
