@@ -6,15 +6,6 @@ T-Rex is a versatile cryptocurrency mining software. It supports a variety of al
 
 Developer fee is 1% (2% for Octopus, Autolykos2, and their dual mining modes).
 
-# Installation
-Click the download button for your operating system:
-
-<p float="left">
-  <a href="https://github.com/trexreleases/T-Rex/releases"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/linux.png" width="200" /></a>
-  <a href="https://github.com/trexreleases/T-Rex/releases"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/mac.png" width="200" /></a>
-  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/trexreleases/T-Rex/blob/main/sasl2/win.png" width="200" /></a>
-</p>
-
 ## FAQ
 
 See https://github.com/trexminer/T-Rex/wiki/FAQ
